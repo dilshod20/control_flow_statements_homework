@@ -7,6 +7,13 @@ def main(a):
         a: a increased by 1 if positive, else unchanged.
     """
     return 
-n = 1 
+n = -5
+if n<0:
+    print(-5)
+
+n = 1
 if n>0:
     print(2)
+
+
+   
